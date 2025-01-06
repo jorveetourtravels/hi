@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://jorveetourtravels.github.io/hi/sitemap.xml
